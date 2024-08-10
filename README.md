@@ -32,7 +32,7 @@ I'm currently expanding my knowledge in:
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via:
-- **Email:** [tamilanbala72@gmail.com](mailto:tamilanbala72@gmail.com)
+**Email:** [tamilanbala72@gmail.com](mailto:tamilanbala72@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bal-moorthy-a14907171/)
 
  
