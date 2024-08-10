@@ -1,6 +1,6 @@
 # Hi there, I'm Bal Moorthy 👋
 
-![Profile Views](https://komarev.com/ghpvc/?balmoorthy=balmoorthy&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?Balmoorthy=Balmoorthy&color=blueviolet)
 
 ## About Me
 
@@ -25,9 +25,9 @@ I'm currently expanding my knowledge in:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?balmoorthy=balmoorthy&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Balmoorthy=Balmoorthy&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?balmoorthy=balmoorthye&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Balmoorthy=Balmoorthy&layout=compact&theme=radical)
 
 
 ## 📫 How to Reach Me
