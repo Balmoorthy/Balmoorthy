@@ -4,7 +4,9 @@
 
 ## About Me
 
-I'm a Full-Stack Developer from Tamil Nadu,India. I have a passion for coding and love to create innovative solutions.
+**"I am a self-taught front-end developer with a strong foundation in HTML, CSS, SCSS, and JavaScript. My passion for web development has driven me to develop several projects that showcase my ability to create visually appealing and responsive web pages.
+
+Although I am currently focused on front-end technologies, I am eager to expand my skill set into full-stack development. I am particularly interested in learning React, Node.js, and MongoDB to become a more versatile developer and contribute to dynamic and scalable web applications.
 
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in:
