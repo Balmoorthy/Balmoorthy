@@ -4,9 +4,15 @@
 
 ## About Me
 
-**"I am a self-taught front-end developer with a strong foundation in HTML, CSS, SCSS, and JavaScript. My passion for web development has driven me to develop several projects that showcase my ability to create visually appealing and responsive web pages.
+"Hello! I'm a self-taught full-stack developer with a passion for building dynamic and user-centric web applications. My journey in tech started with a curiosity about how websites are built, which quickly evolved into a deep interest in both front-end and back-end development.
 
-Although I am currently focused on front-end technologies, I am eager to expand my skill set into full-stack development. I am particularly interested in learning React, Node.js, and MongoDB to become a more versatile developer and contribute to dynamic and scalable web applications.
+Having recently honed my skills in front-end technologies like HTML, CSS, and JavaScript, I'm now ready to dive into the world of back-end development. My goal is to become proficient in creating seamless and efficient server-side solutions to complement my front-end expertise.
+
+I thrive on solving complex problems, learning new technologies, and continuously improving my craft. My self-driven learning approach has equipped me with a solid foundation and a strong problem-solving mindset, which I’m eager to apply to real-world projects.
+
+Currently, I’m focused on expanding my knowledge in back-end development with technologies such as Node.js, Express, and databases. I'm excited about the endless possibilities in tech and am always on the lookout for opportunities to collaborate, contribute, and grow within the industry.
+
+Let’s connect and explore how we can create innovative web solutions together!"
 
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in:
