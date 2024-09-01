@@ -16,8 +16,8 @@ Let’s connect and explore how we can create innovative web solutions together!
 
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in:
-- React
-- Full-stack Developer
+- Node js
+- Express js
 
 
 ## 🛠️ Technologies & Tools
