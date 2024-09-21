@@ -18,6 +18,7 @@ Let’s connect and explore how we can create innovative web solutions together!
 I'm currently expanding my knowledge in:
 - Node js
 - Express js
+- mongoDB
 
 
 ## 🛠️ Technologies & Tools
