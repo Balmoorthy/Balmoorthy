@@ -13,12 +13,10 @@ I thrive on solving complex problems, learning new technologies, and continuousl
 Currently, I’m focused on expanding my knowledge in back-end development with technologies such as Node.js, Express, and databases. I'm excited about the endless possibilities in tech and am always on the lookout for opportunities to collaborate, contribute, and grow within the industry.
 
 Let’s connect and explore how we can create innovative web solutions together!"
-
+https://github.com/Balmoorthy/Balmoorthy/blob/main/README.md
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in:
-- Node js
-- Express js
-- mongoDB
+- DSA
 
 
 ## 🛠️ Technologies & Tools
